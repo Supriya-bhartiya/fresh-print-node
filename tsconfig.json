@@ -1,0 +1,42 @@
+// {
+//   "compilerOptions": {
+//     "forceConsistentCasingInFileNames": true,
+//     "esModuleInterop": true,
+//     "outDir": "dist",
+//     "rootDir": "./",
+//     "target": "ESNext",
+//     "skipLibCheck": true,
+//     "strict": true,
+//     "sourceMap": true,
+//     "lib": ["ESNext"],
+//     "baseUrl": "./",
+//     "paths": {
+//       "@controllers/*": ["./src/api/controllers/*"],
+//       "@routes/*": ["./src/api/routes/*"],
+//       "@data/*": ["./src/data/*"]
+//     }
+//   },
+//   "exclude": ["node_modules"]
+// }
+
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "dist",
+    "rootDir": "./",
+    "paths": {
+            "@controllers/*": ["./src/api/controllers/*"],
+            "@routes/*": ["./src/api/routes/*"],
+            "@data/*": ["./src/data/*"]
+          }
+  },
+  "exclude": [
+    "./node_modules/",
+    "./dist/"
+  ]
+}

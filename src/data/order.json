@@ -1,0 +1,52 @@
+{
+    "orders": [
+        {
+            "order_id": 1,
+            "customer_id": 1,
+            "order_details":[
+                {
+                    "apparel_id": 1,
+                    "size_id": 1,
+                    "quantity": 5
+
+                },
+                {
+                    "apparel_id": 1,
+                    "size_id": 2,
+                    "quantity": 5
+
+                },
+                {
+                    "apparel_id": 1,
+                    "size_id": 5,
+                    "quantity": 5
+
+                }
+            ]
+        },
+        {
+            "order_id": 2,
+            "customer_id": 2,
+            "order_details":[
+                {
+                    "apparel_id": 1,
+                    "size_id": 2,
+                    "quantity": 105
+
+                },
+                {
+                    "apparel_id": 2,
+                    "size_id": 2,
+                    "quantity": 25
+
+                },
+                {
+                    "apparel_id": 3,
+                    "size_id": 2,
+                    "quantity": 5
+
+                }
+            ]
+        }
+    ]
+}

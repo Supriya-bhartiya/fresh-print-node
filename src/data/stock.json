@@ -1,0 +1,108 @@
+{
+  "stocks": [
+    {
+      "stock_id": 1,
+      "vendor_id": 1,
+      "apparel_id": 1,
+      "size_id": 1,
+      "quantity": 106,
+      "price": 5000
+    },
+    {
+      "stock_id": 2,
+      "vendor_id": 1,
+      "apparel_id": 1,
+      "size_id": 2,
+      "quantity": 200,
+      "price": 800
+    },
+    {
+      "stock_id": 3,
+      "vendor_id": 1,
+      "apparel_id": 1,
+      "size_id": 3,
+      "quantity": 100,
+      "price": 500
+    },
+    {
+      "stock_id": 4,
+      "vendor_id": 1,
+      "apparel_id": 1,
+      "size_id": 4,
+      "quantity": 100,
+      "price": 100
+    },
+    {
+      "stock_id": 5,
+      "vendor_id": 1,
+      "apparel_id": 1,
+      "size_id": 5,
+      "quantity": 100,
+      "price": 200
+    },
+    {
+      "stock_id": 6,
+      "vendor_id": 1,
+      "apparel_id": 2,
+      "size_id": 1,
+      "quantity": 100,
+      "price": 250
+    },
+    {
+      "stock_id": 7,
+      "vendor_id": 1,
+      "apparel_id": 2,
+      "size_id": 2,
+      "quantity": 100,
+      "price": 700
+    },
+    {
+      "stock_id": 8,
+      "vendor_id": 1,
+      "apparel_id": 2,
+      "size_id": 3,
+      "quantity": 100,
+      "price": 1190
+    },
+    {
+      "stock_id": 9,
+      "vendor_id": 2,
+      "apparel_id": 1,
+      "size_id": 1,
+      "quantity": 100,
+      "price": 1090
+    },
+    {
+      "stock_id": 10,
+      "vendor_id": 2,
+      "apparel_id": 1,
+      "size_id": 2,
+      "quantity": 100,
+      "price": 786
+    },
+    {
+      "stock_id": 11,
+      "vendor_id": 2,
+      "apparel_id": 2,
+      "size_id": 1,
+      "quantity": 100,
+      "price": 290
+    },
+    {
+      "stock_id": 12,
+      "vendor_id": 2,
+      "apparel_id": 2,
+      "size_id": 2,
+      "quantity": 100,
+      "price": 678
+    },
+    {
+      "stock_id": 12,
+      "vendor_id": 2,
+      "apparel_id": 3,
+      "size_id": 1,
+      "quantity": 100,
+      "price": 908
+    }
+  ]
+}
